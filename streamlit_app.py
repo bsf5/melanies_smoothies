@@ -1,4 +1,4 @@
-SMOOTHIES.PUBLIC.MY_UPLOADED_FILESSMOOTHIES.PUBLIC.MY_UPLOADED_FILESSMOOTHIES.PUBLIC.MY_UPLOADED_FILESSMOOTHIES.PUBLIC.MY_UPLOADED_FILES# Import python packages.
+SMOOTHIES.PUBLIC.MY_UPLOADED_FILES# Import python packages.
 import streamlit as st
 
 from snowflake.snowpark.functions import col
